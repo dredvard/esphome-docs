@@ -76,7 +76,7 @@ Configuration example:
         ble_client_id: itag_black
         name: "Black iTag Battery"
         service_uuid: '180f'
-        char_uuid: '2a19'
+        characteristic_uuid: '2a19'
         icon: 'mdi:battery'
         unit_of_measurement: '%'
 
